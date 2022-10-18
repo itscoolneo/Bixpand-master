@@ -1,0 +1,44 @@
+1663580106706	geckodriver	INFO	Listening on 127.0.0.1:60425
+1663580109767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60426" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Champ\\AppData\\Local\\Temp\\rust_mozprofile4ytg24"
+1663580110248	Marionette	INFO	Marionette enabled
+1663580110254	Marionette	INFO	Listening on port 60436
+WebDriver BiDi listening on ws://localhost:60426
+Read port: 60436
+1663580110367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Champ\\AppData\\Local\\Temp\\rust_mozprofile4ytg24\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60426/devtools/browser/ce05b70f-8305-4d5c-8637-2c7271e103e9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://staging.bixpand.com."
+1663580396074	Marionette	INFO	Stopped listening on port 60436
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60556" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Champ\\AppData\\Local\\Temp\\rust_mozprofileY6Eeh5"
+1663580186838	Marionette	INFO	Marionette enabled
+1663580186842	Marionette	INFO	Listening on port 60565
+WebDriver BiDi listening on ws://localhost:60556
+Read port: 60565
+1663580187007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Champ\\AppData\\Local\\Temp\\rust_mozprofileY6Eeh5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60556/devtools/browser/50a5141a-d212-4a3f-8438-f99b91056c0d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://staging.bixpand.com."
+1663580391476	Marionette	INFO	Stopped listening on port 60565
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60699" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Champ\\AppData\\Local\\Temp\\rust_mozprofileAbKMyY"
+1663580276441	Marionette	INFO	Marionette enabled
+1663580276445	Marionette	INFO	Listening on port 60708
+WebDriver BiDi listening on ws://localhost:60699
+Read port: 60708
+1663580276611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Champ\\AppData\\Local\\Temp\\rust_mozprofileAbKMyY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60699/devtools/browser/cade662f-0553-40bd-a557-1224b43e8e10
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://staging.bixpand.com."
+1663580393667	Marionette	INFO	Stopped listening on port 60708
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60767" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Champ\\AppData\\Local\\Temp\\rust_mozprofileGjOO5v"
+1663580292174	Marionette	INFO	Marionette enabled
+1663580292179	Marionette	INFO	Listening on port 60797
+WebDriver BiDi listening on ws://localhost:60767
+Read port: 60797
+1663580292386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Champ\\AppData\\Local\\Temp\\rust_mozprofileGjOO5v\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60767/devtools/browser/a7073c95-bbf9-4355-b992-36a5f4a4938c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://staging.bixpand.com."
+1663580307479	Marionette	INFO	Stopped listening on port 60797
